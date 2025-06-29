@@ -79,13 +79,13 @@ Install Python 3.12 and Jupyter Notebook.
 ### 💻 Clone this Repository
 
 ```bash
-git clone https://github.com/yourusername/student-performance-rf.git
-cd student-performance-rf
+git clone https://github.com/RAVINDRAN-S/Students-Performance-Prediction---Random-Forest
+cd Students-Performance-Prediction---Random-Forest
 ```
 📦 Install Dependencies
 ```bash
 
-pip install -r requirements.txt
+pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 ### ▶️ Run the Notebook
 ```bash
@@ -94,10 +94,10 @@ jupyter notebook "Student Performance Prediction - Random Forest.ipynb"
 ```
 ## 📈 Model Evaluation
 - Metric	Score
-- Accuracy	0.87
-- Precision	0.85
-- Recall	0.88
-- F1-Score	0.86
+- Accuracy	0.995
+- Precision	1.00
+- Recall	0.96
+- F1-Score	0.98
 
 (Replace these values with your actual model results)
 
